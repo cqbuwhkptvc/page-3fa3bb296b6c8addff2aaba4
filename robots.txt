@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://web.chonganrc.cn/sitemap.xml
